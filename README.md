@@ -26,19 +26,11 @@ I'm Abhay Yadav — an aspiring Software Engineer.
 </p>
 
 
-## 🚀 Featured Projects
+## 🚀 Work Experience
 
-### Project One
-Short 1–2 line description.  
-Repository: https://github.com/abhay1074/ProjectOne
-
-### Project Two
-Short 1–2 line description.  
-Repository: https://github.com/abhay1074/ProjectTwo
-
-### Project Three
-Short 1–2 line description.  
-Repository: https://github.com/abhay1074/ProjectThree
+### Infosys Springboard
+AI internship
+My first Industry Experience that helped me deevlop technical as well as professsional skills
 
 
 ## 📈 GitHub Stats

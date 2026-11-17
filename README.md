@@ -1,11 +1,16 @@
-Hi, I'm Abhay 👋
+# Hi, I'm Abhay 👋
+
 I'm Abhay Yadav — a B.Tech Computer Science student (2028) at IIIT Naya Raipur and an aspiring Software Engineer with a data engineering focus.
-🔭 I’m currently working on data pipelines, AI projects and research, and strengthening my basics with projects
-🌱 I’m learning: NextJS, advanced AI, System design, and constantly doing CP and DSA
-📫 How to reach me: 1074abhayyadav770@gmail.com • LinkedIn
-⚡ Fun fact: [I aspire to be a great leader in the Tech industry]
+
+- 🔭 I’m currently working on data pipelines, AI projects and research, and strengthening my basics with projects
+- 🌱 I’m learning: NextJS, advanced AI, System design, and constantly doing CP and DSA
+- 📫 How to reach me: 1074abhayyadav770@gmail.com • [LinkedIn](https://www.linkedin.com/in/abhay-yadav-iiitnr/)
+- ⚡ Fun fact: [I aspire to be a great leader in the Tech industry]
+
 ---
-🔧 Tech Stack & Tools
+
+## 🔧 Tech Stack & Tools
+
 <!-- Logos use Simple Icons CDN for crisp SVGs -->
 <p align="left">
   <img alt="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" style="margin-right:10px"/>
@@ -20,32 +25,45 @@ I'm Abhay Yadav — a B.Tech Computer Science student (2028) at IIIT Naya Raipur
   <img alt="MongoDB" src="https://cdn.simpleicons.org/mongodb/47A248" height="28" style="margin-right:10px"/>
 </p>
 
-🚀 Work Experience
-GAO Tek — Data Mining Intern (starting December 2026)
-University of Messina — Research Intern, Graph Analytics (Nov 2026 – Present)
+
+## 🚀 Work Experience
+
+### GAO Tek — Data Mining Intern *(starting December 2026)*
+
+### University of Messina — Research Intern, Graph Analytics *(Nov 2026 – Present)*
 Working with Prof. Pasquale De Meo on a diagnostic study of early-career attrition using social network analysis and graph neural networks, reviewing and applying methods from many research papers.
-Intervue.io — Operations Intern (Jun 2026 – Sep 2026)
+
+### Intervue.io — Operations Intern *(Jun 2026 – Sep 2026)*
 Used my technical skills to build automation for the operations team and increase their efficiency.
-Infralyte Technologies — Software Engineering Intern, Data Engineering (Apr 2026 – Jun 2026)
-Worked on several client projects at the same time, including the migration of legacy financial records to BigQuery for PayPal
-Restored broken data pipeline systems, including IoT pipelines, for a telecommunications client
-Troubleshot pipelines every day to keep them running 24/7
-Built an automated hiring system (resume screening, interview invitations) that helped hire 2 people in one week
-Infosys Springboard — AI Research Intern (Nov 2025 – Jan 2026)
+
+### Infralyte Technologies — Software Engineering Intern, Data Engineering *(Apr 2026 – Jun 2026)*
+- Worked on several client projects at the same time, including the migration of legacy financial records to BigQuery for PayPal
+- Restored broken data pipeline systems, including IoT pipelines, for a telecommunications client
+- Troubleshot pipelines every day to keep them running 24/7
+- Built an automated hiring system (resume screening, interview invitations) that helped hire 2 people in one week
+
+### Infosys Springboard — AI Research Intern *(Nov 2025 – Jan 2026)*
 Built an end-to-end predictive maintenance pipeline on NASA's C-MAPSS engine sensor data, comparing six deep learning models. My first industry experience, which helped me develop both technical and professional skills.
-Project: Prognos AI
-Skinsense AI — Co-Founder & CTO (Oct 2025 – Jan 2026)
-Built the core skin-disease screening model and open-sourced its dataset on Kaggle. skinsense.in
+Project: [Prognos AI](https://github.com/abhay1074/prognoasAI)
 
-🛠️ Featured Projects
-Q1 Revenue Reconciliation — reconciled a raw NetSuite export into a validated Q1 revenue figure and traced discrepancies in Finance and Power BI numbers
-Prognos AI — engine health prediction on NASA C-MAPSS data with a Streamlit dashboard
-MediGraph — UDBHAV Inter-IIIT finalist; symptom extraction and disease ranking over the PrimeKG knowledge graph
-YouTube Search Assistant — Kaggle hackathon runner-up (Open Category), built with Gemma
+### Skinsense AI — Co-Founder & CTO *(Oct 2025 – Jan 2026)*
+Built the core skin-disease screening model and open-sourced its dataset on Kaggle. [skinsense.in](https://skinsense.in/)
 
-📈 GitHub Stats
+
+## 🛠️ Featured Projects
+
+- [Q1 Revenue Reconciliation](https://github.com/abhay1074/Q1_revenue) — reconciled a raw NetSuite export into a validated Q1 revenue figure and traced discrepancies in Finance and Power BI numbers
+- [Prognos AI](https://github.com/abhay1074/prognoasAI) — engine health prediction on NASA C-MAPSS data with a Streamlit dashboard
+- [MediGraph](https://github.com/CBOW-submission/MedApp) — UDBHAV Inter-IIIT finalist; symptom extraction and disease ranking over the PrimeKG knowledge graph
+- [YouTube Search Assistant](https://www.kaggle.com/competitions/aidurg-gemma-hackathon/writeups/youtube-search-assistant-real-time-video-discover) — Kaggle hackathon runner-up (Open Category), built with Gemma
+
+
+## 📈 GitHub Stats
+
 ![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhay1074&show_icons=true&theme=radical)
 
-📫 Contact
-Email: 1074abhayyadav770@gmail.com
-LinkedIn: https://www.linkedin.com/in/abhay-yadav-iiitnr/
+
+## 📫 Contact
+
+- Email: 1074abhayyadav770@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/abhay-yadav-iiitnr/
